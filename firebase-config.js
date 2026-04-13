@@ -1,6 +1,6 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCLE0V86QwtGM4T-xR9VNQh8a6eM6lQCrA",
+  apiKey: "AIzaSyAjGCmuM2k-qch7lf6b-KrywW-x-aa9XVg",
   authDomain: "laiba-00.firebaseapp.com",
   databaseURL: "https://laiba-00-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "laiba-00",
